@@ -1,0 +1,4 @@
+{
+    "/jobs/list/:order": "/jobs?_sort=publication_date&_order=:order",
+    "/jobs/list/:order/:type": "/jobs?type=:type&_sort=publication_date&_order=:order"
+}
